@@ -1,0 +1,18 @@
+{
+  "short_name": "সমিতি",
+  "name": "সমিতি সঞ্চয় ও ঋণ হিসাব",
+  "description": "সমিতি সদস্যদের নিয়মিত সঞ্চয় ও বকেয়া কিস্তি ব্যবস্থাপনার আধুনিক ও ডিজিটাল সমাধান",
+  "icons": [
+    {
+      "src": "/src/assets/images/somiti_app_icon_1782848069577.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#059669",
+  "display": "standalone",
+  "orientation": "portrait"
+}

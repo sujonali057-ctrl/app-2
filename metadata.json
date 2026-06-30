@@ -1,0 +1,6 @@
+{
+  "name": "হাপানিয়া যুব উন্নয়ন সংঘ ম্যানেজমেন্ট",
+  "description": "হাপানিয়া যুব উন্নয়ন সংঘের সদস্য, জমা, বিনিয়োগ, উত্তোলন এবং বকেয়া হিসাব পরিচালনার লোকাল স্টোরেজ ভিত্তিক অ্যাপ্লিকেশন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
